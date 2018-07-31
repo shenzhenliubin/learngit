@@ -5,5 +5,3 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 Use stash save local work.
 test!
-make a modify!
-
