@@ -1,4 +1,4 @@
-test git pull
+tst git pull
 bbbb
 bbbb
 ssss
