@@ -1,6 +1,5 @@
 tst git pull
 bbbb
-bbbb
 ssss
 Git is a distributed version control system.
 Git is free software distributed under GPL.
