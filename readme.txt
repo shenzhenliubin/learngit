@@ -1,6 +1,3 @@
-zzz
-yyy
-wwww
 test git pull
 aaaa
 bbbb
